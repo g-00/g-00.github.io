@@ -1,0 +1,15 @@
+
+body {
+  background-color: #000000;
+  margin: 100px;
+}
+
+img {
+  max-width: 20%;
+  margin: 5% 380px;
+}
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
