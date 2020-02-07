@@ -1,0 +1,17 @@
+div.box1{
+	background-color: #F0F8FF
+	padding: 10px;
+	height: 300px;
+	width: 200px;
+	position: flex;
+	bottom: 300%;
+}
+
+div.box2{
+	background-color: #E6E6FA
+	padding: 10px;
+	height: 300px;
+	width: 200px;
+	position: flex;
+	bottom: 300%;
+}

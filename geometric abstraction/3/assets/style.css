@@ -1,0 +1,37 @@
+div.box1{
+	background-color: #DCECD4
+	padding: 8px;
+	height: 500px;
+	width: 100px;
+	position: relative;
+	
+
+}
+
+div.box2{
+	background-color: #CCCBE8
+	padding: 8px;
+	height: 500px;
+	width: 100px;
+	position: relative;
+	
+}
+
+div.box3{
+	background-color: #EAF39C
+	padding: 8px;
+	height: 500px;
+	width: 100px;
+	position: relative;
+	left: 5px;
+}
+
+div.box4{
+	background-color: #F3C79C
+	padding: 8px;
+	height: 500px;
+	width: 100px;
+	position: relative;
+	left: 5px;
+}
+
