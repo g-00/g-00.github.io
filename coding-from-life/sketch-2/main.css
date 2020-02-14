@@ -14,9 +14,150 @@ body {
 .frame {
   width: 95vw;
   height: 57vw;
-  background: white;
+  background: #CF0CFF;
   margin: 2.5vw auto;
   position: relative;
 }
+
+
+.book1 {
+      width: 10%;
+      height: 20%;
+      background: #0A42F3;
+      position: relative;
+      top: 53%;
+      left: 25%;
+    }
+.book2 {
+      width: 10%;
+      height: 4%;
+      background: #3F3C31;
+      position: relative;
+      top: 48%;
+      left: 50%;
+}
+.book3 {
+      width: 10%;
+      height: 4%;
+      background: #696762;
+      position: relative;
+      top: 40%;
+      left: 52%;
+}
+.vase{
+      width: 60px;
+      height: 90px;
+      background: #F4F4E9;
+      border-radius: 50px / 70px;
+      position: relative;
+      bottom:-20%;
+      left: 53%;
+    }
+    #octagon:before {
+      content: "";
+      width: 10%;
+      height: 0;
+      position: relative;
+      top: 0;
+      left: 10%;
+      border-bottom: 29vw solid red;
+      border-left: 29vw solid #eee;
+      border-right: 29vw solid #eee;
+    }
+    #octagon:after {
+      content: "";
+      width: 100px;
+      height: 0;
+      position: relative;
+      bottom: 0;
+      left: 10%;
+      border-top: 29vw solid red;
+      border-left: 29vw solid #eee;
+      border-right: 29vw solid #eee;
+    }  
+
+
+    .table {
+      width: 70%;
+      height: 38%;
+      background: #D3D2D2;
+      position: relative;
+      top: 0%;
+      left: 10%;
+ }
+
+ .catbody{
+      width: 7%;
+      height: 7%;
+      background: #000000;
+      border-radius: 30% / 10%;
+      position: relative;
+      left:40%;
+      top:18%;
+    }
+ .cathead{
+      width: 7%;
+      height: 9%;
+      background: #000000;
+      border-radius: 60%;
+      position:relative;
+      top:4%;
+      left:40%;
+    }
+.catear1{
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 9px solid transparent;
+      border-bottom: 18px solid black;
+      position: relative;
+      top: -6.5%;
+      left: 41%;
+      -webkit-transform: rotate(230deg);
+
+    }
+.catear2{
+     width: 0;
+     height: 0;
+     border-left: 19px solid transparent;
+     border-right: -5px solid transparent;
+     border-bottom: 16px solid black;
+     position: relative;
+     top: -8.5%;
+     left: 44.5%;
+     -webkit-transform: rotate(251deg); 
+    }
+.cateye1{
+     width: 8px;
+     height: 8px;
+     background: #FF0CB9;
+     border-radius: 50%;
+     position: relative;
+     top: -7%;
+     left: 42%;
+    }
+.cateye2{
+     width: 8px;
+     height: 8px;
+     background: #29FF0C;
+     border-radius: 50%;
+     position: relative;
+     top: -8.4%;
+     left: 45%;
+}
+.flower1
+
+}
+
+.camera{
+      width: 4%;
+      height: 5%;
+      background: #000000;
+      position: relative;
+      left: 65%;
+      top: 12%;
+    }
+}
+
 
 /* Your CSS goes here */

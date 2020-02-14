@@ -17,4 +17,81 @@ body {
   position: relative;
 }
 
+
+
+
+
+.vase {
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-bottom: 20px solid red;
+  position: relative;
+  top: 110px;
+}
+.vase:after {
+  content: '';
+  position: absolute;
+  left: -50px;
+  top: 20px;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-top: 70px solid red;
+}
+
+
+.book {
+      width: 110px;
+      height: 150px;
+      background: red;
+      position: relative;
+      top: 180px;
+      left: 280px;
+    }
+
+ .table {
+ 	  width: 800px;
+      height: 280px;
+      background: red;
+      position: relative;
+      top: 40px;
+      left: 100px;
+ }
+
+ .catbody{
+ 	  width: 70px;
+      height: 60px;
+      background: red;
+      border-radius: 100px / 50px;
+      position: relative;
+      left:500px;
+      top:20px;
+    }
+ .cathead{
+ 	  width: 100px;
+      height: 100px;
+      background: red;
+      border-radius: 50%
+      top:80px;
+ }
+
+
+
+
+  
+}
+
+
+
+
+
+.flowerstem1 {
+	width:180px;
+	height:300px;
+	color: green;
+	position: relative;
+
+
+
 /* Your CSS goes here */
