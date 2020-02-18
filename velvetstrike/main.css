@@ -43,7 +43,7 @@ h1 {
 span {
   font-family: 'Press Start 2P', cursive;
   font-size: 7vw;
-  margin-top: 2em;
+  margin-top: 3em;
 }
 
 h2 {  
@@ -177,6 +177,15 @@ p.ten{
 p.eleven{
   font-family: "Times New Roman", Times, serif;
   font-size: 0.7em;
+  font-weight: 800;
+  margin-top: 10em;
+  margin-left: 6em;
+  margin-right: 6em;
+  position: relative;
+}
+p.twelve{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.5em;
   font-weight: 800;
   margin-top: 10em;
   margin-left: 6em;
