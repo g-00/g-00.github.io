@@ -100,7 +100,4 @@ body {
   100% 
 }
 
-@media screen and (max-width: 700px) {
-  .row {
-    display: block;
-   }
+
